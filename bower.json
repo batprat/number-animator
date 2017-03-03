@@ -1,0 +1,12 @@
+{
+  "name": "number-animator",
+  "description": "A directive to animate a number value from `start` to `end` in a specified `duration` milliseconds.",
+  "version": "0.0.1",
+  "homepage": "",
+  "license": "MIT",
+  "private": true,
+  "devDependencies": {
+    "angular": "1.2.x",
+    "angular-mocks": "~1.2.x"
+  }
+}
